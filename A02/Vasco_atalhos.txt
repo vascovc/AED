@@ -1,0 +1,5 @@
+cd OneDrive - Universidade de Aveiro\Grupo\AED_Grupo\A02\A02
+
+gcc -Wall -O2 sorting_methods.c bubble_sort.c shaker_sort.c insertion_sort.c Shell_sort.c quick_sort.c merge_sort.c heap_sort.c rank_sort.c selection_sort.c tree_sort.c bogo_sort.c sorting_methods.h -o sorting_methods -lm
+
+sorting_methods -measure > t.txt | type t.txt

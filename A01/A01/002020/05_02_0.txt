@@ -1,0 +1,14 @@
+NMec = 2020
+T = 5
+P = 2
+Profits not ignored
+Valid tasks: 2
+Solution time = 8.000e-007
+Task data
+    7  22  1888 0
+    8  23  3852 1
+   11  21   694 -1
+   20  27  1485 -1
+   24  26   648 0
+Best profit: 6388
+End

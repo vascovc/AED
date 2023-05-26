@@ -1,0 +1,26 @@
+cd OneDrive - Universidade de Aveiro\Grupo\AED_Grupo\A01
+gcc -Wall -o2 job_selection_Vc.c -o job_selection_final -lm
+
+job_selection_Vc 2020 5 2 0
+	32 cases total; 26 possible; total profit 6505; task 2 undone
+
+job_selection_Vc 2020 20 4 0
+	155510 possible; total profit 36148;
+	without profit - 12 programming tasks and 22 solutions
+
+job_selection_Vc 2020 30 6 0
+	208452244 possible; profit 50154;
+	without profit - 19 programming tasks and 4446 solution
+
+job_selection NMEC num_Tarefas num_Programadores 0/1_custos
+
+slide 30
+
+for i in {0..10..2} 0 a 10 inclusive em saltos de 2
+
+bash do_all &
+o & serve para dar para usar mais vezes
+
+grep "Solution time = " *.txt >tempos_97746.txt
+
+correr gen2 para tirar valores e tempos

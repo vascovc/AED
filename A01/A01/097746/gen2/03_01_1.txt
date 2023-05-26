@@ -1,0 +1,12 @@
+NMec = 97746
+T = 3
+P = 1
+Profits ignored
+Valid tasks:                                                                0
+Solution time = 7.110e-07
+Task data
+    7  12     1 0
+    7  20     1 1880376680
+   11  21     1 1880920464
+Best profit: 1
+End

@@ -1,0 +1,8 @@
+# data for MAX_MESSAGE_SIZE equal to 100000
+# data for N_OUTLIERS equal to 20
+# data for N_VALID equal to 80
+#
+#      number of calls per message symbol      lookahead symbols  max considerations
+#     -----------------------------------  ---------------------  ------------------
+# ns       min      avg      med      max   min    avg  med  max  min  avg  med  max
+#---  -------- -------- -------- --------  ---- ------ ---- ----  --- ---- ---- ----

@@ -1,0 +1,25 @@
+cd OneDrive - Universidade de Aveiro\Grupo\AED_Grupo\A03
+gcc -Wall -O2 fin.c -o V
+gcc -Wall -o2 A03_prev_tos_right.c -o V
+gcc -Wall -O2 A03_new_.c -o V
+	
+V -t 3 5
+V -x 79
+
+-t
+3 1.500 2
+
+-t 10 100 1
+10 2.810 12
+
+-t 10 1000 1
+10 2.955 20
+
+-t 10 10000 1
+10 2.969 21
+
+-t 10 100000 1
+10 2.983 33
+
+-x 4
+4 1.000 1.624 1.756 1.999  0 16.5 8 141

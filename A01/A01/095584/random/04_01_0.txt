@@ -1,0 +1,13 @@
+NMec = 95584
+T = 4
+P = 1
+Profits not ignored
+Valid tasks:                                                          1200000
+Solution time = 1.254e-01
+Task data
+    2  17   954 0
+    5  13   950 -1
+   14  19   854 -1
+   19  28  2081 0
+Best profit: 3035
+End
